@@ -1,0 +1,8 @@
+{
+    "name": "digihum/ddsearch",
+    "type": "omeka-plugin",
+    "author": "James Tripp",
+    "extra": {
+        "installer-name": "ddsearch"
+    }
+}
